@@ -1,0 +1,13 @@
+.idea/
+*.iml
+*.iws
+*.ipr
+.gradle
+target
+.DS_STORE /src/main/resources/log
+out/
+classes/
+*.class
+
+# Project exclude paths
+/build/
